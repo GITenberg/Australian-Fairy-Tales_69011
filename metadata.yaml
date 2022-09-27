@@ -5,12 +5,17 @@ contributor:
     agent_name: Yandell, Christian
     gutenberg_agent_id: '55056'
     url: http://www.gutenberg.org/2009/agents/55056
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cook, Hume
     gutenberg_agent_id: '55055'
     url: http://www.gutenberg.org/2009/agents/55055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69011#Australian-Fairy-Tales
 gutenberg_issued: '2022-09-18'
 identifiers:
   gutenberg: '69011'
